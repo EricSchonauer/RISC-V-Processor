@@ -1,0 +1,293 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "out1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[9]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[10]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[11]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[12]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[13]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[14]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[15]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[16]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[17]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[18]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[19]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[20]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[21]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[22]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[23]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[24]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[25]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[26]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[27]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[28]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[29]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[30]",
+					"strict" : false
+				},
+				{
+					"name" : "out1[31]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[8]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[9]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[10]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[11]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[12]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[13]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[14]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[15]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[16]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[17]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[18]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[19]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[20]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[21]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[22]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[23]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[24]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[25]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[26]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[27]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[28]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[29]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[30]",
+					"strict" : false
+				},
+				{
+					"name" : "out2[31]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
