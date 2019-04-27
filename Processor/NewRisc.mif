@@ -1,0 +1,48 @@
+-- Copyright (C) 2016  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel MegaCore Function License Agreement, or other 
+-- applicable license agreement, including, without limitation, 
+-- that your use is for the sole purpose of programming logic 
+-- devices manufactured by Intel and sold by Intel or its 
+-- authorized distributors.  Please refer to the applicable 
+-- agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=32;
+DEPTH=256;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	0    :   00000000000100000000001010010011;
+	1    :   00000000010100000000001100010011;
+	2    :   11111111111100000000001110010011;
+	3    :   00000000010100101000000101100011;
+	4    :   00000000000100000000111100010011;
+	5    :   00000000000000101000000001100011;
+	6    :   00000000000000101001000101100011;
+	7    :   00000000000100000000111100010011;
+	8    :   00000000000000000001000001100011;
+	9    :   00000000011000111100000101100011;
+	10   :   00000000000100000000111100010011;
+	11   :   00000000011100110100000001100011;
+	12   :   00000000011100110101000101100011;
+	13   :   00000000000100000000111100010011;
+	14   :   00000000000000111101000001100011;
+	15   :   00000000011100101110000101100011;
+	16   :   00000000000100000000111110010011;
+	17   :   00000000001000000000111110010011;
+	18   :   11111110000000000110111011100011;
+	19   :   00000000011000111111000101100011;
+	20   :   00000000000100000000111100010011;
+	21   :   00000000000111110000111100010011;
+	[22..255]  :   00000000000000000000000000000000;
+END;
