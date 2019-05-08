@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at Parallel.v(25): always construct contains both blocking and non-blocking assignments File: M:/ECE 289/Parallel/Parallel.v Line: 25
